@@ -2,7 +2,7 @@ BahaWatch AI
 
 Final project for the Building AI course
 
-Summary
+###Summary
 
 BahaWatch AI is a mobile-friendly tool that predicts hyper-local street flooding up to two hours in advance. It combines live weather radar, local drainage data, and community photos to warn commuters and residents before roads become impassable.
 
